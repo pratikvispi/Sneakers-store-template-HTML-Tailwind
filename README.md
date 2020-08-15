@@ -3,12 +3,14 @@ Tailwind CSS is a utility-first framework that's a little different than CSS fra
 
 ## How to run in VSCode:
 1.npm install tailwindcss
+
 2.Create SRC file for style.css and add the lines mentioned below into that file 
                         @tailwind base;
 
                         @tailwind components;
 
                         @tailwind utilities;
+                        
 3.Then using live server open your index.html file.
 
 
